@@ -1,4 +1,4 @@
-# [NeurIPS'24] SelfCodeAlign: Self-Alignment for Code Generation
+# SelfCodeAlign: Self-Alignment for Code Generation
 
 <p align="left">
     <a href="https://openreview.net/forum?id=xXRnUU7xTL"><img src="https://img.shields.io/badge/Paper-NeurIPS'24-a55fed.svg?style=for-the-badge" alt="Paper" class="img-fluid"/></a>
